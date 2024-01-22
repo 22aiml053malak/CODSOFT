@@ -15,3 +15,10 @@ so in the task02 we will ask user for total subject and in a for loop we will as
 and that is how Task02 is created.
 
 #Task03
+this code simulates a simple ATM system with a BankAccount class and an ATM class. The BankAccount class has methods for checking the balance, depositing, and withdrawing money. The ATM class acts as the user interface, displaying a menu for checking balance, depositing, and withdrawing money. The Task03 class creates an instance of the BankAccount with an initial balance, takes user input for a PIN, and then initializes the ATM with the user's bank account. The user can interact with the ATM by choosing options from the menu, and the system provides feedback on balance, deposits, and withdrawals. The program runs until the user chooses to exit.
+
+
+#Task04
+student management
+The Student class encapsulates student details, while the StudentManagementSystem class manages a collection of students with methods for adding, removing, searching, and displaying students. The Task04 class serves as the user interface, providing a console-based menu for users to interact with the system, add/remove students, search for students, and save/load data to/from a file. The program runs continuously until the user chooses to exit, with input validation for user choices.
+#i did The currancy converter task but somehow it gives error at somepoint so i choose to not to add it on github the criteria was to complete three task i have completed four tasks all the code are written by me and i have give the explaination of all such tasks thank you.
